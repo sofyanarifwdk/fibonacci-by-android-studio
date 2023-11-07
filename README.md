@@ -6,6 +6,12 @@
    <br> NIM     : 312210093 </br>
    <br> Kelas   : TI22B1 </br>
 
+  ``` string
+  1. Buat Project Baru dengan nama hellotoast
+  2. Kita buat Layout di activity_main.xml
+  Berikut isi dari text activity_main.xml
+  ```
+  activity_main.xml
   ``` xml
   <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
