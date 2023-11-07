@@ -1,6 +1,6 @@
 #_**fibonacci-by-android-studio**_
 
-  Pemrograman Mobile 1 | Teknik Informatika | Universitas Pelita Bangsa
+  <h1> Pemrograman Mobile 1 | Teknik Informatika | Universitas Pelita Bangsa </h1>h1>
   =====================================================================
    <br> Nama    : Sofyan Arif Widiatko </br>
    <br> NIM     : 312210093 </br>
