@@ -2,8 +2,8 @@
 
   Pemrograman Mobile 1 | Teknik Informatika | Universitas Pelita Bangsa
   =====================================================================
-   <n> Nama    : Sofyan Arif Widiatko </n>
-   <n> NIM     : 312210093 </n>
+   <br> Nama    : Sofyan Arif Widiatko </br>
+   <br> NIM     : 312210093 </br>
     Kelas   : TI22B1
 
   ``` xml
