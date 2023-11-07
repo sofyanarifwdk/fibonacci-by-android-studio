@@ -5,7 +5,7 @@
    <br> Nama    : Sofyan Arif Widiatko </br>
    <br> NIM     : 312210093 </br>
    <br> Kelas   : TI22B1 </br>
-
+  
   ``` string
   1. Buat Project Baru dengan nama hellotoast
   2. Kita buat Layout di activity_main.xml
@@ -64,4 +64,7 @@
         tools:ignore="OnClick" />
 </LinearLayout>
 
+```
+
+``` xml
 ```
