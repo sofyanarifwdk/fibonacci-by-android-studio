@@ -65,6 +65,55 @@
 </LinearLayout>
 
 ```
+``` string
+3. Kemudian kita buat text tampilan yang ada di activity_main.xml
+Berikut adalaha isi dari text yang ada di layout
+```
+string.xml
+``` xml
+<resources>
+    <string name="app_name">Hello Toast</string>
+    <string name="btn_label_toast">TOAST</string>
+    <string name="count_initial_value">0</string>
+    <string name="btn_label_count">COUNT</string>
+    <string name="toast_message">"Hello Toast!".</string>
+
+    <string name="Fibonacci">Fibonacci</string>
+    <string name="fibonacci">Fibonacci</string>
+</resources>
+```
+``` string
+4. Kemudian kita buat ids.xml
+````
+``` xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTextPersonName" type="id" />
+    <item name="editText" type="id" />
+    <item name="textView" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="fibonacciRecyclerView" type="id" />
+    <item name="Fibonacci" type="id" />
+</resources>
+```
+
+``` string
+````
 
 ``` xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="count_text_size">160dp</dimen>
+</resources>
 ```
+
+
+
+
+
+
+
+
