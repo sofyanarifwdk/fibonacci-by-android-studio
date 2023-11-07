@@ -2,9 +2,9 @@
 
   Pemrograman Mobile 1 | Teknik Informatika | Universitas Pelita Bangsa
   =====================================================================
-    Nama    : Sofyan Arif Widiatko
-    NIM     : 312210093 
-    Kelas   : TI22B1
+  Nama    : Sofyan Arif Widiatko
+  NIM     : 312210093 
+  Kelas   : TI22B1
   
   ``` string
   1. Buat Project Baru dengan nama hellotoast
