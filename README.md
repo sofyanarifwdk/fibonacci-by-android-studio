@@ -1,10 +1,10 @@
 #_**fibonacci-by-android-studio**_
 
-  Pemrograman Mobile 1 | Teknik Informatika | Universitas Pelita Bangsa
+ <h3> Pemrograman Mobile 1 | Teknik Informatika | Universitas Pelita Bangsa </h3>
   =====================================================================
-  Nama    : Sofyan Arif Widiatko
-  NIM     : 312210093 
-  Kelas   : TI22B1
+  <br> Nama    : Sofyan Arif Widiatko </br>
+  <br> NIM     : 312210093 </br>
+  <br> Kelas   : TI22B1 </br>
   
   ``` string
   1. Buat Project Baru dengan nama hellotoast
