@@ -242,7 +242,6 @@ Berikut adalah text dari AndroidManifest.xml
 </manifest>
 ```
 
-
-
+[Ini adalah video Tutorial singkat dari APK Fibonacci by Android Studio](https://youtu.be/rKatRT7htoI)
 
 
